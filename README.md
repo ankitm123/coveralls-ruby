@@ -1,4 +1,18 @@
-# coveralls-ruby [![Test Coverage](https://coveralls.io/repos/lemurheavy/coveralls-ruby/badge.svg?branch=master)](https://coveralls.io/r/lemurheavy/coveralls-ruby) [![Build Status](https://secure.travis-ci.org/lemurheavy/coveralls-ruby.svg?branch=master)](https://travis-ci.org/lemurheavy/coveralls-ruby) [![Gem Version](https://badge.fury.io/rb/coveralls.svg)](http://badge.fury.io/rb/coveralls)
+# coveralls-ruby (ARCHIVED / READ-ONLY)
+
+This repo is no longer maintained. 
+
+- For [Ruby/Rails](https://docs.coveralls.io/ruby-and-rails) users, there is a **new fork** of this community-created Coveralls [Language Integration](https://docs.coveralls.io/integrations#language-integrations) that we now recommend in its place: https://github.com/tagliala/coveralls-ruby-reborn
+
+- **However**, the **official recommendation** from Coveralls.io is to **migrate to one of their [Official Integrations](https://docs.coveralls.io/integrations#official-integrations)**:
+
+  - [Coveralls GitHub Action](https://github.com/marketplace/actions/coveralls-github-action) if you're using GitHub Actions for CI;
+  - [Coveralls Orb for CircleCI](https://circleci.com/developer/orbs/orb/coveralls/coveralls) if you're using CircleCI for CI; and 
+  - [Coveralls Universal Coverage Reporter](https://github.com/coverallsapp/coverage-reporter) (aka. "**Coverage Reporter**") if you're using any other CI service.
+
+---
+
+## Introduction
 
 [Coveralls.io](http://coveralls.io) was designed with Ruby projects in mind, so we've made it as easy as possible to get started using [Coveralls](http://coveralls.io) with Ruby and Rails project.
 
